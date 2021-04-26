@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72eea477.chunk.css",
+    "main.js": "/static/js/main.e992d658.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.cb331c99.js",
+    "static/css/2.5a8b0334.chunk.css": "/static/css/2.5a8b0334.chunk.css",
+    "static/js/2.b4a48a13.chunk.js": "/static/js/2.b4a48a13.chunk.js",
+    "static/js/3.30c61267.chunk.js": "/static/js/3.30c61267.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.b4a48a13.chunk.js.LICENSE.txt": "/static/js/2.b4a48a13.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/SanFranciscoText-RegularG2.e6387fda.woff",
+    "static/media/Projects.scss": "/static/media/dot_wage.5b6ce719.png",
+    "static/media/Banner.scss": "/static/media/home_banner.658c8e38.png",
+    "static/media/Info.scss": "/static/media/info_2.10b316a0.png",
+    "static/media/inl_grey.3f2d7bab.svg": "/static/media/inl_grey.3f2d7bab.svg",
+    "static/media/ins_grey.22099c4b.svg": "/static/media/ins_grey.22099c4b.svg",
+    "static/media/logo.3cae11cc.svg": "/static/media/logo.3cae11cc.svg",
+    "static/media/logo_placeholder.4dc3bbd2.svg": "/static/media/logo_placeholder.4dc3bbd2.svg",
+    "static/media/pin_grey.e814e018.svg": "/static/media/pin_grey.e814e018.svg",
+    "static/media/yt_grey.cf51808b.svg": "/static/media/yt_grey.cf51808b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb331c99.js",
+    "static/css/2.5a8b0334.chunk.css",
+    "static/js/2.b4a48a13.chunk.js",
+    "static/css/main.72eea477.chunk.css",
+    "static/js/main.e992d658.chunk.js"
+  ]
+}
